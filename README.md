@@ -11,7 +11,7 @@ it can help clean up their question servers.
 - This is a binary classification problem, a pair of questions can only be duplicates of each other
 or non-duplicates of each other.
 
-- [Draft](https://github.com/LuBrian/466MiniProj/blob/master/466_Mini_Project_draft.pdf)
+- [Complete Draft](https://github.com/LuBrian/466MiniProj/blob/master/466_Mini_Project_draft.pdf)
 
 Notes: 
 - The feature dictionary we used is called "glove.6B.50d.txt" (171.4MB), it is too large to upload, you can obtain it from https://nlp.stanford.edu/projects/glove/ by downloading the "glove.6B.zip", we rename it as "glove_6B_50d_w2v.txt" in our project.
