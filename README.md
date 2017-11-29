@@ -1,6 +1,6 @@
 # 466MiniProj
 CMPUT 466 Mini project
-By: Fred Han (G) <xuefei1@ualberta.ca>, Brian Lu (UG) <blu11@ualberta.ca>
+By: Fred Han (G) <xuefei1@ualberta.ca>, Brian Lu (UG) <blu1@ualberta.ca>
 ## Introduction
 - For our CMPUT 466/551 project, we plan to investigate the duplicate question problem. As the
 name suggest, this problem investigates whether two questions in English are in fact, asking the
