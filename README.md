@@ -1,4 +1,4 @@
-# 466MiniProj
+# CMPUT 466/551 Mini Project
 CMPUT 466 Mini project
 By: Fred Han (G) <xuefei1@ualberta.ca>, Brian Lu (UG) <blu1@ualberta.ca>
 ## Introduction
