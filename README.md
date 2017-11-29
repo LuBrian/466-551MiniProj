@@ -1,5 +1,5 @@
 # CMPUT 466/551 Mini Project
-CMPUT 466 Mini project
+CMPUT 466／551 Mini project
 By: Fred Han (G) <xuefei1@ualberta.ca>, Brian Lu (UG) <blu1@ualberta.ca>
 ## Introduction
 - For our CMPUT 466/551 project, we plan to investigate the duplicate question problem. As the
