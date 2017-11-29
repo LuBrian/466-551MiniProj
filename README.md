@@ -14,5 +14,5 @@ or non-duplicates of each other.
 - [Complete Draft](https://github.com/LuBrian/466MiniProj/blob/master/466_Mini_Project_draft.pdf)
 
 Notes: 
-- The feature dictionary we used is called "glove.6B.50d.txt" (171.4MB), it is too large to upload, you can obtain it from https://nlp.stanford.edu/projects/glove/ by downloading the "glove.6B.zip", we rename it as "glove_6B_50d_w2v.txt" in our project.
+- The feature dictionary we used is called "glove.6B.50d.txt" (171.4MB), it is too large to upload. You can obtain it from https://nlp.stanford.edu/projects/glove/ by downloading the "glove.6B.zip", and we rename it as "glove_6B_50d_w2v.txt" in our project.
 - According to large number of features on our data, the full runs with all parameters would approximately take 1 day.
